@@ -1,0 +1,61 @@
+
+¿A que se llama Herencia?
+
+Se llama Herencia a la capacidad que posee una clase superior de 
+transmitirle sus metodos y atributos a las subclases.
+
+¿Qué es una subclase?
+
+Una subclase es una clase que es hija de otra clase.
+
+---------------------------------------
+Que es un objeto?
+
+Un objeto es la instancia de una clase.
+
+-------------------------------------------
+¿Qué significa que un atributo sea protegido?
+
+Que un atributo sea protegido significa que solo van 
+a poder acceder a la clase en la que se creo y las subclases 
+que de ella dependen.
+
+----------------------------------------------
+Existe la herencia múltiple en Typescript?
+
+No. No existe la Herencia multiple en Typescript.
+
+---------------------------------------------
+Definir Poliformismo
+
+el polimorfismo es la posibilidad de modificar determinado valor
+en un atributo heredado de una clase padre o de modificar determinada 
+accion realizada por un metodo heredado de una clase padre.
+
+--------------------------------------------------
+¿Qué es un constructor? Para qué sirve?
+
+un constructor es un metodo el cual se utiliza en una clase para
+poder instanciar objetos. se lo utiliza para poder acceder a los atributos
+de dicha clase una vez instanciado.
+
+---------------------------------------------------
+¿Cómo se crea una clase abstracta?
+
+una clase abstracta se crea al hacer que uno de sus metodos o de sus
+atributos no este implmentado.
+
+--------------------------------------------------
+¿Para que se usa el super?
+
+el super se utiliza para referenciar los metodos heredados de la clase super
+dentro de la subclase
+
+--------------------------------------------------
+¿Qué son las interfaces?
+
+las interfaces son una solucion hacia la imposibilidad de una herencia multiple.
+donde se declaran atributos pero no estan definidos. Y las 
+interfaces no se heredan sino que se implementan.
+
+
